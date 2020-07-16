@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá!
+Meu nome é Jackson, tenho 19 anos e sou um entusiasta em tecnologia. :smiley:
 
-<!--
-**jackson541/jackson541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Também sou Técnico em Informática e graduando em Ciência e Tecnologia.
 
-Here are some ideas to get you started:
+Já trabalhei com diversas tecnologias em minha trajetória. Aqui estão algumas delas:
+- Python, Django, Django-Rest, Flask
+- PHP, Laravel
+- Java
+- Html
+- Css
+- Java Script, TypeScript, Node.js, React, React Native
+- Arduino
+- Mysql e demais bancos relacionais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Então, fique a vontade para dar uma passada em meus repositórios e comentar nas issues. :rocket:
+
+<a href="https://www.linkedin.com/in/jackson-alves541/">
+  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
+</a>
+
